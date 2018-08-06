@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color:lightgrey;
+    font-family: 'Courgette', cursive;
+}
+
+h1, h2{
+    color:fuchsia;
+    text-align: center;
+    font-weight: 900;
+}
